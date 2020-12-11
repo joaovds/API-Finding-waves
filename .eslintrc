@@ -23,6 +23,8 @@
     "class-methods-use-this": "off",
     "no-useless-constructor": "off",
     "max-classes-per-file": "off",
+    "max-len": "off",
+    "no-restricted-syntax": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
